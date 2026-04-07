@@ -20,12 +20,12 @@ Projede modern mobil tasarım prensipleri ve performans odaklı yapı kullanılm
 
 ## 🎯 Özellikler
 
-🎬 Film ve dizileri listeleme
-🔍 Arama ve filtreleme
-⭐ Favori ekleme/çıkarma
-🌐 TVmaze API ile güncel içerik
-📱 Android ve iOS uyumlu
-💡 Modern, responsive ve performans odaklı UI
+- 🎬 Film ve dizileri listeleme
+- 🔍 Arama ve filtreleme
+- ⭐ Favori ekleme/çıkarma
+- 🌐 TVmaze API ile güncel içerik
+- 📱 Android ve iOS uyumlu
+-💡 Modern, responsive ve performans odaklı UI
 
 ---
 
