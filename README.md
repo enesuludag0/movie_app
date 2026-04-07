@@ -57,8 +57,6 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-## 📱 Ekran Görüntüleri
-
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
