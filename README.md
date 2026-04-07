@@ -57,19 +57,25 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<p align="center">
-  <span>
-    <b><sub>Ana Sayfa (Ürün Listesi)</sub></b><br>
-    <img src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" width="200" style="border:1px solid #ccc; padding:8px;"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <b><sub>Ürün Detayı</sub></b><br>
-    <img src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" width="200" style="border:1px solid #ccc; padding:8px;"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <b><sub>Favoriler</sub></b><br>
-    <img src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" width="200" style="border:1px solid #ccc; padding:8px;"/>
-  </span>
-</p>
+## 📱 Ekran Görüntüleri
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+    <div align="center">
+      <b><sub>Ana Sayfa (Ürün Listesi)</sub></b><br><br>
+      <img src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" width="200" style="border:1px solid #ccc; padding:10px;"/>
+    </div>
+
+    <div align="center">
+      <b><sub>Ürün Detayı</sub></b><br><br>
+      <img src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" width="200" style="border:1px solid #ccc; padding:10px;"/>
+    </div>
+
+    <div align="center">
+      <b><sub>Favoriler</sub></b><br><br>
+      <img src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" width="200" style="border:1px solid #ccc; padding:10px;"/>
+    </div>
+
+  </div>
+</div>
