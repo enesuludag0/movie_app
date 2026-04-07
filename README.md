@@ -57,7 +57,7 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<table>
+<table border="0">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #ccc;">
       <b><sub>Ana Sayfa (Ürün Listesi)</sub></b><br><br>
