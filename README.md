@@ -57,19 +57,16 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<table border="0">
-  <tr>
-    <td align="center" style="padding: 15px; border: 1px solid #ccc;">
-      <b><sub>Ana Sayfa (Ürün Listesi)</sub></b><br><br>
-      <img src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" width="200"/>
-    </td>
-    <td align="center" style="padding: 15px; border: 1px solid #ccc;">
-      <b><sub>Ürün Detayı</sub></b><br><br>
-      <img src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" width="200"/>
-    </td>
-    <td align="center" style="padding: 15px; border: 1px solid #ccc;">
-      <b><sub>Favoriler</sub></b><br><br>
-      <img src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" width="200"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" width="200" align="left" style="margin-right:20px; border:1px solid #ccc; padding:10px;" />
+  <img src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" width="200" align="left" style="margin-right:20px; border:1px solid #ccc; padding:10px;" />
+  <img src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" width="200" align="left" style="border:1px solid #ccc; padding:10px;" />
+</p>
+
+<br clear="both"/>
+
+<p>
+  <b><sub>Ana Sayfa</sub></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b><sub>Ürün Detayı</sub></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b><sub>Favoriler</sub></b>
+</p>
