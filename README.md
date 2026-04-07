@@ -57,20 +57,22 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<div style="display: flex; gap: 20px;">
+## 📱 Ekran Görüntüleri
+
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
 
 <div style="text-align: center;">
-  <h4 style="display: inline"><b>Ana Sayfa</b></h4>
+  <p><b>Ana Sayfa</b></p>
   <img width="200" height="400" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
 </div>
 
 <div style="text-align: center;">
-  <h4 style="display: inline"><b>Ürün Detayı</b></h4>
+  <p><b>Ürün Detayı</b></p>
   <img width="200" height="400" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
 </div>
 
 <div style="text-align: center;">
-  <h4 style="display: inline"><b>Favoriler</b></h4>
+  <p><b>Favoriler</b></p>
   <img width="200" height="400" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
 </div>
 
