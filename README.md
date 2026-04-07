@@ -57,7 +57,7 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<table>
+<table border="0" cellspacing="30" cellpadding="0">
   <tr>
     <td align="center">
       <b>Ana Sayfa</b><br>
