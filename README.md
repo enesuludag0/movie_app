@@ -1,16 +1,55 @@
-# movie_app
+# 🎬 Movie & TV App
 
-A new Flutter project.
+Movie & TV App, kullanıcıların **film ve dizileri keşfetmesini, detaylarını görmesini ve favorilerine eklemesini sağlayan** modern bir mobil uygulamadır.  
+Uygulama, **Dart/Flutter** ile geliştirilmiş olup, **cross-platform** (Android & iOS) uyumludur ve güncel içerikleri **TVmaze API** üzerinden sunar.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Proje Özeti
 
-A few resources to get you started if this is your first Flutter project:
+Bu uygulama kullanıcıya şunları sağlar:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📱 Film ve dizileri listeleme, detay sayfalarına erişme  
+- ⭐ Favorilere ekleme ve yönetme  
+- 🔄 TVmaze API entegrasyonu ile güncel içerik sunma  
+- 💻 Dart/Flutter kullanılarak cross-platform destek (Android & iOS)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projede modern mobil tasarım prensipleri ve performans odaklı yapı kullanılmıştır.
+
+---
+
+## 🎯 Özellikler
+🎬 Film ve dizileri listeleme
+🔍 Arama ve filtreleme
+⭐ Favori ekleme/çıkarma
+🌐 TVmaze API ile güncel içerik
+📱 Android ve iOS uyumlu
+💡 Modern, responsive ve performans odaklı UI
+
+## 🚀 Başlarken
+
+Aşağıdaki adımlarla projeyi yerel cihazınızda çalıştırabilirsiniz:
+
+### 📋 Gereksinimler
+
+- Flutter SDK  
+- Android Studio / VS Code 
+
+### 🛠️ Kurulum
+
+Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
+
+```bash
+# Repo'yu klonla
+git clone https://github.com/enesuludag0/movie_app.git
+
+# Proje dizinine gir
+cd movie_app
+
+# Gerekli paketleri yükle
+flutter pub get
+
+# Uygulamayı başlat
+flutter run
+
+## 📱 Ekran Görüntüleri
