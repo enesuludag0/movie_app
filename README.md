@@ -56,11 +56,23 @@ flutter run
 ---
 
 ## 📱 Ekran Görüntüleri
-Ana Sayfa (Ürün Listesi) <br>
-<img width="200" height="400" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
+## 📱 Ekran Görüntüleri
 
-Ürün Detayı <br>
-<img width="200" height="4000" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
+<div style="display: flex; gap: 20px;">
 
-Favoriler <br>
-<img width="200" height="400" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
+<div style="text-align: center;">
+  <h4><b>Ana Sayfa</b></h4>
+  <img width="200" height="400" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
+</div>
+
+<div style="text-align: center;">
+  <h4><b>Ürün Detayı</b></h4>
+  <img width="200" height="400" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
+</div>
+
+<div style="text-align: center;">
+  <h4><b>Favoriler</b></h4>
+  <img width="200" height="400" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
+</div>
+
+</div>
