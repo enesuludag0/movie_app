@@ -57,7 +57,7 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20px;">
 
 <div>
 <b>Ana Sayfa (Ürün Listesi)</b><br>
