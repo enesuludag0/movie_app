@@ -26,9 +26,11 @@ Projede modern mobil tasarım prensipleri ve performans odaklı yapı kullanılm
 📱 Android ve iOS uyumlu
 💡 Modern, responsive ve performans odaklı UI
 
+---
+
 ## 🚀 Başlarken
 
-Aşağıdaki adımlarla projeyi yerel cihazınızda çalıştırabilirsiniz:
+Aşağıdaki adımları takip ederek projeyi yerel cihazınızda çalıştırabilirsiniz:
 
 ### 📋 Gereksinimler
 
@@ -36,8 +38,6 @@ Aşağıdaki adımlarla projeyi yerel cihazınızda çalıştırabilirsiniz:
 - Android Studio / VS Code 
 
 ### 🛠️ Kurulum
-
-Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
 
 ```bash
 # Repo'yu klonla
@@ -51,5 +51,16 @@ flutter pub get
 
 # Uygulamayı başlat
 flutter run
+```
+
+---
 
 ## 📱 Ekran Görüntüleri
+Ana Sayfa (Ürün Listesi)
+<img width="446" height="933" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
+
+Ürün Detayı
+<img width="447" height="937" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
+
+Favoriler
+<img width="447" height="935" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
