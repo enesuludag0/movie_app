@@ -57,19 +57,21 @@ flutter run
 
 ## 📱 Ekran Görüntüleri
 
-<table border="0" cellspacing="30" cellpadding="0">
-  <tr>
-    <td align="center">
-      <b>Ana Sayfa</b><br>
-      <img width="200" height="400" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
-    </td>
-    <td align="center">
-      <b>Ürün Detayı</b><br>
-      <img width="200" height="400" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
-    </td>
-    <td align="center">
-      <b>Favoriler</b><br>
-      <img width="200" height="400" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; gap: 40px;">
+
+  <div style="text-align: center;">
+    <b>Ana Sayfa</b><br>
+    <img width="200" height="400" alt="ana sayfa (ürün listesi)" src="https://github.com/user-attachments/assets/5df4dd2b-ee5b-4663-bdf8-9a23cdc4bed8" />
+  </div>
+
+  <div style="text-align: center;">
+    <b>Ürün Detayı</b><br>
+    <img width="200" height="400" alt="ürün detayı" src="https://github.com/user-attachments/assets/36b85fa6-7207-40a2-af10-86d8c6eb2d98" />
+  </div>
+
+  <div style="text-align: center;">
+    <b>Favoriler</b><br>
+    <img width="200" height="400" alt="favoriler" src="https://github.com/user-attachments/assets/4c91b51d-91ca-4302-904c-8cd67c9d7431" />
+  </div>
+
+</div>
